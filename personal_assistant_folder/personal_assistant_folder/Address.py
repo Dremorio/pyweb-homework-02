@@ -1,4 +1,4 @@
-from personal_assistant_folder.Field import Field
+from Field import Field
 
 
 class Address(Field):

@@ -1,5 +1,5 @@
-from personal_assistant_folder.Note import Note
-from personal_assistant_folder.Serialization import Serialization
+from Note import Note
+from Serialization import Serialization
 
 
 class NotesList:

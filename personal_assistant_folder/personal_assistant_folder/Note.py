@@ -1,6 +1,6 @@
-from personal_assistant_folder.notes.Title import Title
-from personal_assistant_folder.notes.Content import Content
-from personal_assistant_folder.notes.Tag import Tag
+from Title import Title
+from Content import Content
+from Tag import Tag
 
 
 class Note:
